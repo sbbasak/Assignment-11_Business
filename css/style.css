@@ -1,0 +1,644 @@
+.social-header {
+    background-color: #bab3ba;
+}
+
+.container {}
+
+.row {}
+
+.col-md-4 {
+    float: left;
+}
+
+.mobile {
+    float: left;
+
+}
+
+.mobile a {
+    text-decoration: none;
+    color: #424242;
+
+
+}
+
+.mobile ul {
+    float: left;
+    padding-right: 30px;
+    padding-top: 13px;
+}
+
+.mobile ul li {
+    padding-right: 15px;
+}
+
+.facebook-head {
+    float: left;
+}
+
+.mobile a span {
+    padding-right: 10px;
+}
+
+.mobile i {
+    padding-right: 10px;
+    color: #424242;
+    font-size: 20px;
+
+}
+
+.col-md-8 {}
+
+.social-icon {}
+
+.fas.fa-mobile-alt {}
+
+.col-md--4 {}
+
+.email {}
+
+.email2 {
+    background-color: black;
+}
+
+.email a {
+    text-decoration: none;
+    color: #424242;
+}
+
+.email a span {
+    padding-right: 10px;
+}
+
+.email i {
+    color: #424242;
+    font-size: 20px;
+}
+
+.email {}
+
+.email {}
+
+.email {}
+
+.email {}
+
+.facebook {
+    float: left;
+    padding-top: 6px;
+}
+
+.facebook a {}
+
+.facebook a span {}
+
+.facebook i {
+    font-size: 18px;
+    background-color: #1287bf;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 3px;
+
+}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+.fas.fa-envelope {}
+
+.fab.fa-facebook-square {}
+
+.fab.fa-facebook-f {
+    margin-top: 3px;
+}
+
+
+/* this is a menu part stat css */
+
+.menu {
+    background-color: #ffffff;
+}
+
+.container {}
+
+.col-md-7 {
+    float: left;
+}
+
+.col-md-5 {
+    float: left;
+}
+
+.logo {}
+
+.logo ul {}
+
+. logo ul li {}
+
+.logo ul li img {
+    padding-bottom: 27px;
+
+}
+
+.logo ul li h1 {
+    padding-top: 4px;
+}
+
+.logo ul li p {
+    line-height: 0;
+}
+
+.logo {}
+
+.logo {}
+
+.logo {}
+
+.logo {}
+
+.lint-inline {}
+
+.list-inline-item {}
+
+.menu-2 {}
+
+.menu-2 ul {
+    padding-top: 37px;
+}
+
+.menu-2 ul li {}
+
+.menu-2 ul li button {
+    background-color: #de2b24;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    text-align: center;
+}
+
+.menu-2 ul li button a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+
+
+}
+
+.menu-2 ul li a {
+    padding-right: 25px;
+    list-style-type: disc;
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.menu-2 ul li a:hover {
+    color: #de2b24;
+
+}
+
+.menu-2 {}
+
+.menu-2 {}
+
+
+.list-inline {}
+
+/* this is a menu part end css  */
+
+/* this is a menu part end css  */
+
+/*  this is a we providing part  start css */
+
+.we-providing {
+    background: url('../image/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 530px;
+}
+
+.container {}
+
+.row {}
+
+.col-md-12.text-center {}
+
+.providing {
+    padding-top: 160px;
+}
+
+.providing h1 {
+    font-size: 48px;
+    color: #ffffff;
+}
+
+.providing p {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.providing button {
+    background-color: #f8cd53;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.providing button a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.providing {}
+
+{}
+
+{}
+
+{}
+
+{}
+
+{}
+
+{}
+
+/*  this is a we providing part  start css */
+
+/*  this is a we providing part  start css */
+
+/*  this is a about us part start css  */
+
+.about-us {
+    padding: 100px 0;
+}
+
+.container {}
+
+.row {}
+
+.col-md-12.text-center {}
+
+.about {
+    padding-bottom: 45px;
+}
+
+.about h1 {
+    font-size: 36px;
+    color: #424242;
+
+}
+
+.about p {
+    font-size: 20px;
+    color: #424242;
+
+}
+
+.about span {
+    width: 100px;
+    height: 2px;
+    background-color: black;
+}
+
+.col-md-4 {}
+
+.like.text-center {}
+
+.like.text-center img {
+    padding-bottom: 30px;
+
+}
+
+.like.text-center h5 {
+    font-size: 22px;
+    color: #424242;
+
+
+}
+
+.like.text-center p {
+    color: #424242;
+    font-size: 13px;
+
+}
+
+. {}
+
+{}
+
+{}
+
+{}
+
+{}
+
+{}
+
+{}
+
+
+/*  this is a about us part end css  */
+
+/*  this is a about us part end css  */
+
+/* this is our approch part start css */
+
+.our-approch {
+    background-color: #f3f3f3;
+    padding: 100px 0;
+}
+
+.container {}
+
+.row {}
+
+.row-border {
+    border: 1px solid #e5e5e5;
+    background-color: #ffffff;
+    margin-top: 30px;
+}
+
+.col-md-12.text-center {}
+
+.approch {}
+
+.col-md-5 {}
+
+.img-heading {
+    width:360px;
+    height:250px;
+    margin-right:15px;
+    position:relative;
+}
+.two{
+    position: absolute;
+    top: 28%;
+    left: 83%;
+    transform: translate(-50% -50%);
+    
+    
+}
+.three{
+    position: absolute;
+    top: 28%;
+    left: -9%;
+    transform: translate(-50% -50%);
+}
+
+.img-heading img {
+    width:360px;
+    height:250px;
+    background: cover;
+}
+
+.col-md-7 {}
+
+.text-heading.text-left {
+    padding-top: 86px;
+    padding-left: 60px;
+}
+
+.text-heading.text-left h5 {
+    font-size: 18px;
+
+}
+
+.text-heading.text-left p {
+    font-size: 13px;
+
+}
+
+.text-heading.text-right {
+    padding-top: 75px;
+    padding-right: 60px;
+
+}
+
+/* this is our approch part end css */
+
+/* this is our approch part end css */
+
+/* this is a our work part start */
+
+.our-work {
+    background-color: #de2b24;
+    padding: 100px 0;
+}
+
+.container {}
+
+.row {}
+
+.col-md-12.text-center {}
+
+.work {}
+
+.work h1 {
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: bold;
+
+}
+
+.work p {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.col-md-3 {
+    padding: 0;
+}
+
+.paper-plane.text-center {
+    background-color: #f35e59;
+    height: 100%;
+    width: 100%;
+    padding-top: 55px;
+}
+
+.paper-plane.text-center h3 {
+    color: #ffffff;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.paper-plane.text-center p {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.paper-plane.text-center i {
+    color: #f9afac;
+
+}
+
+.flaticon-paper {}
+
+.photoshop {
+    width: 285px;
+    height: 250px;
+}
+
+.photoshop img {
+    width: 285px;
+    height: 252px;
+    background-repeat: no-repeat;
+}
+
+
+/* this is a our work part end */
+
+/* this is a our work part end */
+
+/* this is a footer part start css */
+
+#usr {}
+
+.footer0 {
+    background-color: #2a2a2a;
+    padding: 50px 0;
+}
+
+.container {}
+
+.row {}
+
+.col-md-12 {}
+
+.social-icon.text-center {}
+
+.social-icon.text-center h3 {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.social-icon.text-center ul {}
+
+.social-icon.text-center ul li {}
+
+.social-icon.text-center ul li a {}
+
+.social-icon.text-center ul li i {
+    font-size: 30px;
+    color: #ffffff;
+    border: 2px solid #515151;
+    padding: 6px 13px;
+    border-radius: 5px;
+}
+
+.social-icon.text-center ul li i:hover {
+    border: 2px solid #de2b24;
+}
+
+.list-inline {}
+
+.list-inline-item {}
+
+.fab.fa-facebook-f {}
+
+.fab.fa-twitter-square {}
+
+.fab.fa-google-plus-square {}
+
+.fab.fa-linkedin {}
+
+.row.text-center.col-md-8 {
+    text-align: center;
+    margin-left: 190px;
+}
+
+    {
+    text-align: center;
+    margin-left: 138px;
+}
+
+.form-box1 {
+    padding-left: 100px;
+}
+
+.form-box1 p {
+    color: white;
+    padding-right: 120px;
+}
+
+.form-box form input {
+    background: trapsparent;
+
+}
+
+.form-group {}
+
+.form-group input {
+    background: transparent;
+    background-color: #515151;
+    border: none;
+    width: 650px;
+    margin-left: 125px;
+
+}
+
+.button1 {}
+
+.btn.btn-lg {}
+
+.row {}
+
+.col-md-12.text-center {}
+
+.button1 {}
+
+.button1 button {
+    padding: 12px 40px;
+    background-color: #2a2a2a;
+    border-radius: 5px;
+    border: 2px solid #515151;
+    margin-top: 25px;
+}
+
+.button1 button a {
+    color: #ffffff;
+    text-decoration: none;
+
+}
+
+/* this is a footer part end css */
+
+/* this is a footer part end css */
+
+/* this is a footer part end css */
+
+.footer2 {
+    background-color: #515151;
+}
+
+.container {}
+
+.row {}
+
+.col-md-12.text-center {}
+
+.copyright {}
+
+.copyright p {
+    color: #cecece;
+    padding-top: 12px;
+}
+
+.copyright {}
+
+
+/* this is a footer part end css */
+
+/* this is a footer part end css */
